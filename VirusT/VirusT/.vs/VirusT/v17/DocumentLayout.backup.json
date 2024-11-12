@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A83F41D-5D68-4ED7-B4D2-D0E4388DAF02}|VirusT\\VirusT.csproj|c:\\users\\dima\\desktop\\projects\\my_game_of_life\\virust\\virust\\virust\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A83F41D-5D68-4ED7-B4D2-D0E4388DAF02}|VirusT\\VirusT.csproj|solutionrelative:virust\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\AppData\\Local\\Temp\\.vsdbgsrc\\e2fc59b382cedb8305d5440efd29e5c35142dd48fbb75e9d8fbca6d10af4154e\\String.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733F7356-2330-4180-955A-DAA784AC29A8}|WF_VirusT\\WF_VirusT.csproj|C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\wf_virust\\wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733F7356-2330-4180-955A-DAA784AC29A8}|WF_VirusT\\WF_VirusT.csproj|solutionrelative:wf_virust\\wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733F7356-2330-4180-955A-DAA784AC29A8}|WF_VirusT\\WF_VirusT.csproj|C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\other classes\\start_wf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733F7356-2330-4180-955A-DAA784AC29A8}|WF_VirusT\\WF_VirusT.csproj|solutionrelative:WF_VirusT\\other classes\\start_wf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733F7356-2330-4180-955A-DAA784AC29A8}|WF_VirusT\\WF_VirusT.csproj|C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\wf_VirusT\\wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{733F7356-2330-4180-955A-DAA784AC29A8}|WF_VirusT\\WF_VirusT.csproj|solutionrelative:wf_VirusT\\wf\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733F7356-2330-4180-955A-DAA784AC29A8}|WF_VirusT\\WF_VirusT.csproj|C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\wf_virust\\wf\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{733F7356-2330-4180-955A-DAA784AC29A8}|WF_VirusT\\WF_VirusT.csproj|solutionrelative:wf_virust\\wf\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\VirusT\\main\\main.cs",
+              "RelativeDocumentMoniker": "VirusT\\main\\main.cs",
+              "ToolTip": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\VirusT\\main\\main.cs",
+              "RelativeToolTip": "VirusT\\main\\main.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:10:58.294Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\wf\\MainForm.cs",
+              "RelativeDocumentMoniker": "WF_VirusT\\wf\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\wf\\MainForm.cs",
+              "RelativeToolTip": "WF_VirusT\\wf\\MainForm.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwF0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:12:18.802Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "start_wf.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\other classes\\start_wf.cs",
+              "RelativeDocumentMoniker": "WF_VirusT\\other classes\\start_wf.cs",
+              "ToolTip": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\other classes\\start_wf.cs",
+              "RelativeToolTip": "WF_VirusT\\other classes\\start_wf.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:59:07.875Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\wf\\MainForm.cs",
+              "RelativeDocumentMoniker": "WF_VirusT\\wf\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\wf\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WF_VirusT\\wf\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:04:08.69Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "String.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\AppData\\Local\\Temp\\.vsdbgsrc\\e2fc59b382cedb8305d5440efd29e5c35142dd48fbb75e9d8fbca6d10af4154e\\String.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2fc59b382cedb8305d5440efd29e5c35142dd48fbb75e9d8fbca6d10af4154e\\String.cs",
+              "ToolTip": "C:\\Users\\Dima\\AppData\\Local\\Temp\\.vsdbgsrc\\e2fc59b382cedb8305d5440efd29e5c35142dd48fbb75e9d8fbca6d10af4154e\\String.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2fc59b382cedb8305d5440efd29e5c35142dd48fbb75e9d8fbca6d10af4154e\\String.cs",
+              "ViewState": "AgIAAHQJAAAAAAAAAAAqwIwJAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:30:21.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\wf\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "WF_VirusT\\wf\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Dima\\Desktop\\projects\\My_Game_Of_Life\\VirusT\\VirusT\\WF_VirusT\\wf\\MainForm.Designer.cs",
+              "RelativeToolTip": "WF_VirusT\\wf\\MainForm.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:01:27.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

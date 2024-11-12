@@ -1,0 +1,14 @@
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\GOL\VirusT\VirusT\bin\Debug\VirusT.exe.config
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\GOL\VirusT\VirusT\bin\Debug\VirusT.exe
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\GOL\VirusT\VirusT\bin\Debug\VirusT.pdb
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\GOL\VirusT\VirusT\obj\Debug\VirusT.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\GOL\VirusT\VirusT\obj\Debug\VirusT.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\GOL\VirusT\VirusT\obj\Debug\VirusT.exe
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\GOL\VirusT\VirusT\obj\Debug\VirusT.pdb
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\VirusT\VirusT\VirusT\bin\Debug\VirusT.exe.config
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\VirusT\VirusT\VirusT\bin\Debug\VirusT.exe
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\VirusT\VirusT\VirusT\bin\Debug\VirusT.pdb
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\VirusT\VirusT\VirusT\obj\Debug\VirusT.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\VirusT\VirusT\VirusT\obj\Debug\VirusT.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\VirusT\VirusT\VirusT\obj\Debug\VirusT.exe
+C:\Users\Dima\Desktop\projects\My_Game_Of_Life\VirusT\VirusT\VirusT\obj\Debug\VirusT.pdb
